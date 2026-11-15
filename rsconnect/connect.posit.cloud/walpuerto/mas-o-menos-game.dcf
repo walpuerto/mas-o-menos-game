@@ -1,0 +1,12 @@
+name: mas-o-menos-game
+title: mas-o-menos-game
+username: walpuerto
+account: walpuerto
+server: connect.posit.cloud
+hostUrl: https://api.connect.posit.cloud/v1
+appId: 01a1de55-8eac-8975-2516-a8089905e3b3
+bundleId:
+url: https://connect.posit.cloud/walpuerto/content/01a1de55-8eac-8975-2516-a8089905e3b3
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
